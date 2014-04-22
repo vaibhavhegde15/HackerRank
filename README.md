@@ -1,4 +1,4 @@
 hackerrank
 ==========
 
-My HackerRank solutions
+My HackerRank solutions.
